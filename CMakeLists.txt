@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(ygodeck-c)
+project(ygodata-c)
 
 ################################
 # Compiler setup
